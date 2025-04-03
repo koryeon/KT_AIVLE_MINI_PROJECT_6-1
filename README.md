@@ -1,4 +1,4 @@
-# KT_AIVLE_MINI_PROJECT_6
+# KT_AIVLE_MINI_PROJECT_6-1
 # 시계열 데이터 기반 상품 판매량 예측
   
 ## 프로젝트 개요
